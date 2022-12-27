@@ -1,0 +1,3 @@
+aiohttp==3.8.1
+aiohttp_proxy==0.1.2
+loguru==0.6.0
